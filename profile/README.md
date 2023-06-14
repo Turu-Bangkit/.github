@@ -1,4 +1,6 @@
 # Introduction
+We have developed Turu, a platform that helps users track their sleep schedule and journal their dreams. Turu incorporates a unique "sleep to earn" business model that rewards users for following their sleep schedule and achieving their sleep goals. Our platform provides a painkiller solution by motivating users to prioritize their sleep and adopt healthier sleep habits. We believe that Turu can make a significant impact by providing users with the tools and motivation they need to achieve better sleep habits and improve their quality of life.
+
 
 ## Repository
 - [Machine Learning Repository](https://github.com/Turu-Bangkit/ml)
