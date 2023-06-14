@@ -3,7 +3,7 @@
 ## Repository
 - [Machine Learning Repository](https://github.com/Turu-Bangkit/ml)
 - [Cloud Computing Repository](https://github.com/Turu-Bangkit/Turu-backend)
-- - [Mobile Development Repository](https://github.com/Turu-Bangkit/TuruApp-Mobile)
+- [Mobile Development Repository](https://github.com/Turu-Bangkit/TuruApp-Mobile)
 
 ## Team Members
 |            Member           | Student ID |        Path        |                                                 
