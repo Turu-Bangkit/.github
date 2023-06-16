@@ -6,9 +6,9 @@ We have developed Turu, a platform that helps users track their sleep schedule a
 
 
 ## Repository
-- [Machine Learning Repository](https://github.com/Turu-Bangkit/ml)
-- [Cloud Computing Repository](https://github.com/Turu-Bangkit/Turu-backend)
-- [Mobile Development Repository](https://github.com/Turu-Bangkit/TuruApp-Mobile)
+- [Machine Learning Repository](https://github.com/Turu-Bangkit/ml).
+- [Cloud Computing Repository](https://github.com/Turu-Bangkit/Turu-backend).
+- [Mobile Development Repository](https://github.com/Turu-Bangkit/TuruApp-Mobile).
 
 ## Team Members
 |            Member           | Student ID |        Path        |                                                 
@@ -21,3 +21,5 @@ We have developed Turu, a platform that helps users track their sleep schedule a
 | Dandy Candra Oktaviano | A139DSX1398  | Mobile Development |
 
 ## Installation
+- For cloud computing, you can check the detail in this [repository](https://github.com/Turu-Bangkit/Turu-backend).
+- For the App, you can check the detail in this [repository](https://github.com/Turu-Bangkit/TuruApp-Mobile).
